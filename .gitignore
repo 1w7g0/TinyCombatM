@@ -1,0 +1,25 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+TestResults/
+release/
+
+# Runtime/test output
+BepInEx/
+*.log
+*.tmp
+
+# Local game copies and decompiler output
+TinyCombatArena\[Host\]/
+TinyCombatArena\[Client\]/
+Decompiled/
+
+# Local-only reference assemblies. These must be copied from the developer's
+# own Tiny Combat Arena/BepInEx install and must not be redistributed here.
+libs/*.dll
+!libs/README.md
+
+# Private planning notes
+plans/AIRCRAFT_COLLISION_PLAN.md
