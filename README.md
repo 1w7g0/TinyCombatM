@@ -1,4 +1,4 @@
-Fork of Fork of XIVIX134/TCAMultiplayerMod.
+Fork of XIVIX134/TCAMultiplayerMod.
 Original description:
 
 # TCAMP
